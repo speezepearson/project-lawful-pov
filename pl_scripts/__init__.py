@@ -18,5 +18,5 @@ THREAD_PAGE_COUNTS = {
 ALL_PAGES = {
   Page(thread_id, page_num)
   for thread_id, page_count in THREAD_PAGE_COUNTS.items()
-  for page_num in range(page_count)
+  for page_num in range(1, page_count+1)
 }
