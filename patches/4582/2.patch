@@ -1,0 +1,1254 @@
+--- out/4582/2/before-edit.html	2022-05-15 18:52:30.788286651 +0200
++++ out/4582/2/after-edit.html	2022-05-15 18:52:21.360216386 +0200
+@@ -512,7 +512,7 @@
+       </div>
+       <div class="post-content">
+        <p>
+-        "I swear to you, as a servant of Cheliax and of Asmodeus, that as far as I know, the Neutral Evil gods really do all seem to suck and there are none I'm failing to mention deliberately for strategic reasons. My best guess why is because Abaddon eats souls and anyone with better priorities hangs out somewhere else. Asmodeus is also called the Prince of Hell, or the Prince of Law; Hell is nine planes and He's on the deepest, called Nessus. His holy symbol is the pentagram, his domains are -" tyranny, slavery, "authority, contracts, and pride, trying to pray to Him sounds like a good idea to me, I pray to Him every night and nothing's happened but no one's ever minded, afara ghe esssent savat see a -
++        "I swear to you, as a servant of Cheliax and of Asmodeus, that as far as I know, the Neutral Evil gods really do all seem to suck and there are none I'm failing to mention deliberately for strategic reasons. My best guess why is because Abaddon eats souls and anyone with better priorities hangs out somewhere else. Asmodeus is also called the Prince of Hell, or the Prince of Law; Hell is nine planes and He's on the deepest, called Nessus. His holy symbol is the pentagram, his domains are authority, contracts, and pride, trying to pray to Him sounds like a good idea to me, I pray to Him every night and nothing's happened but no one's ever minded, afara ghe esssent savat see a -
+         <em>
+          Gurre."
+         </em>
+@@ -785,130 +785,12 @@
+      <a class="noheight" id="reply-1618130">
+      </a>
+      <div class="padding-10">
+-      <div class="post-info-box">
+-       <div class="post-icon">
+-        <a href="/icons/159712">
+-         <img alt="carissa11" class="icon" src="https://d1anwqy6ci9o1i.cloudfront.net/users%2F34%2Ficons%2Fb21ogufkuir94ztyth28a_carissa11.png" title="carissa11">
+-        </a>
+-       </div>
+-       <div class="post-info-text">
+-        <div class="post-character">
+-         <a href="/characters/10397">
+-          Carissa Sevar
+-         </a>
+-        </div>
+-        <div class="post-screenname">
+-         to-let-you-in
+-        </div>
+-        <div class="post-author">
+-         <a href="/users/34">
+-          lintamande
+-         </a>
+-        </div>
+-       </div>
+-      </div>
++      
+       <div class="post-edit-box">
+        <a href="/replies/1618130#reply-1618130" rel="alternate">
+         <img alt="Permalink" src="https://dhtmoj33sf3e0.cloudfront.net/assets/icons/link-02aa7107206d04e6a93ae48a274439dfe67cb8306b3a0755434f3d378e173d28.png" title="Permalink">
+        </a>
+-      </div>
+-      <div class="post-content">
+-       <p>
+-        The priest has his eyebrows raised and that, of all things, reminds Carissa to be terrified, which she’d been attempting to forget on the grounds that lying’s harder than just having the right opinions in the first place. She’s not sure that was the wrong tack but - probably in hindsight this should have been handled by a specialist in dealing with prospective defectors from other countries, someone who actually knows what they say about the gods in other places, not just the things they say to Chelish soldiers in the uneasy context of the Worldwound truce.
+-       </p>
+-       <p>
+-        <br>
+-        Failing that - she should probably have been stupider? It was pride, motivating her there, he’s obviously very clever and she doesn’t like being outdone, doesn’t like hearing that god math is easy, taught at a younger age than the age where she started training as a wizard -
+-       </p>
+-       <p>
+-       </p>
+-       <p>
+-        <br>
+-        - is he lying about that? He gave a credible impression of being not very good at lying but that’s only sort of lying, really, claiming you were twelve when you studied topology instead of twenty, people exaggerate more when telling stories of their conquests and don’t even consider it deception -
+-       </p>
+-       <p>
+-       </p>
+-       <p>
+-        - if he’s not lying about it then how? There’s a classroom-full of children of a given age as intelligent as Carissa in all Cheliax and it’d be logistically difficult to put them in one place. &nbsp;Maybe steel can do that.
+-        <br>
+-        <br>
+-        He didn’t mention being tracked for it - maybe he was tracked for it and just didn’t think it bore mention but he mentioned that they checked for Evil and thought he was somewhat there inclined, and surely no society checks for Evil inclination and not for intelligence, which is much more obvious and easier to test for.
+-        <br>
+-        Not impossible, she concludes, thinking about it, if you have a good way of putting all the smartest children in your country in the same place. But he doesn’t carry himself like someone who thinks he’s one of the smartest people in his country. And no sane society would be discouraging its most intelligent people from having children.
+-       </p>
+-       <p>
+-       </p>
+-       <p>
+-        <br>
+-        - she’s getting distracted. She should be composing her report for the priest, which should include these inferences and exclude the error analysis. They’ll probably mindread her for it later but by then she can have shaped it to be a little more generous.
+-       </p>
+-       <p>
+-        “He’s from another world,” she says. “I think…. I think they’re smarter and Lawfuller, and I’m not entirely sure they have free will.”
+-       </p>
+-       <p>
+-       </p>
+-       <p>
+-        <br>
+-        The priest looks at her impassively.
+-       </p>
+-       <p>
+-        <br>
+-        “There’s a billion of them. Unless he’s lying - which, with permission, I can check in a minute, I’ve got a Detect Thoughts left - people who are not particularly notably smart have the prerequisites for wizard education covered when they’re twelve, not because they have wizardry or any reason to have treated it as an educational priority. He wants to try to reinvent his world’s technology here. I think he can do it. I assume we want it done in Cheliax, and probably that means you want to take him back there tonight, because here there’s nothing we can do if he talks to Iomedae and decides to walk out the door - I think he is probably going to. Plausibly going to try to talk to every god I mentioned, He had lots of questions about them. He has Chaotic sympathies and I’m not sure if he believed me the Chaotic gods are no good for this. And he was confused about why all the Evil gods outside Asmodeus are…so terrible… because he is lacking the context that Evil gods mostly hurt petitioners badly, I only had 50 minutes and that always takes a really long time to explain to people in a way that doesn’t send them running out the door screaming so I judged it better to omit it. But he noticed, uh, that without that and without the context that heresy is prohibited in Cheliax and without the context that it’s recommended not to learn about other gods lest you get yourself in trouble, then it doesn’t - quite hold together, and I think he’ll have a lot of questions for someone who knows more than I about defectors and how to explain those things.
+-       </p>
+-       <p>
+-        He said he wants - to be so rich he can’t keep track of how much money he has, and to have lots of beautiful women to have lots of children by, which I think was - well, obviously, a normal motivation in its own right but it was significantly about his country not thinking he was particularly valuable to it? I think you could get a lot of goodwill just by treating it as very obvious that we want ten thousand of him. Which we might, even if he’s Chaotically inclined he gave a credible impression of not thinking people should - commit crimes or overthrow governments - and he wouldn’t choose Abaddon.”
+-       </p>
+-       <p>
+-        <br>
+-        “Did he like you?” the priest says.
+-       </p>
+-       <p>
+-       </p>
+-       <p>
+-        <br>
+-        - an obvious question. She’s unprepared for it in the sense her thoughts hadn’t gotten there yet, but not in the sense she feels at all surprised. “I don’t know. Or - I think yes but possibly if you give him twenty pretty girls at that point it’d be not particularly.”
+-       </p>
+-       <p>
+-       </p>
+-       <p>
+-        “Your recommendation is that I get him to Cheliax tonight?”
+-       </p>
+-       <p>
+-       </p>
+-       <p>
+-        <br>
+-        “Yes. Somewhere - abundant in ways even a much richer world might not be abundant, if they didn’t have magic -“
+-       </p>
+-       <p>
+-       </p>
+-       <p>
+-        <br>
+-        “I’ll talk to some people. Go read his mind.”
+-       </p>
+-       <p>
+-        She does that.
+-       </p>
+-      </div>
+-     </div>
+-     <div class="post-footer">
+-      <div class="right-align">
+-       <div class="padding-5">
+-        Posted
+-        <span class="post-posted">
+-         Jul 02, 2021 12:18 AM
+-        </span>
+-        | Updated
+-        <span class="post-updated">
+-         Nov 09, 2021  6:26 PM
+-        </span>
+-        |
+-        <a class="post-history" href="/replies/1618130/history">
+-         See History
+-        </a>
+-       </div>
+-      </div>
+-     </div>
+-    </div>
++      </div><br></div></div>
+     <div class="post-container post-reply">
+      <a class="noheight" id="reply-1618167">
+      </a>
+@@ -1205,118 +1087,7 @@
+       </div>
+      </div>
+     </div>
+-    <div class="post-container post-reply">
+-     <a class="noheight" id="reply-1618440">
+-     </a>
+-     <div class="padding-10">
+-      <div class="post-info-box">
+-       <div class="post-icon">
+-        <a href="/icons/159712">
+-         <img alt="carissa11" class="icon" src="https://d1anwqy6ci9o1i.cloudfront.net/users%2F34%2Ficons%2Fb21ogufkuir94ztyth28a_carissa11.png" title="carissa11">
+-        </a>
+-       </div>
+-       <div class="post-info-text">
+-        <div class="post-character">
+-         <a href="/characters/10397">
+-          Carissa Sevar
+-         </a>
+-        </div>
+-        <div class="post-screenname">
+-         to-let-you-in
+-        </div>
+-        <div class="post-author">
+-         <a href="/users/34">
+-          lintamande
+-         </a>
+-        </div>
+-       </div>
+-      </div>
+-      <div class="post-edit-box">
+-       <a href="/replies/1618440#reply-1618440" rel="alternate">
+-        <img alt="Permalink" src="https://dhtmoj33sf3e0.cloudfront.net/assets/icons/link-02aa7107206d04e6a93ae48a274439dfe67cb8306b3a0755434f3d378e173d28.png" title="Permalink">
+-       </a>
+-      </div>
+-      <div class="post-content">
+-       <p>
+-        Carissa listens. Sits at a table and writes everything down, firstly because otherwise she's going to forget half of it and secondly because sitting at a table writing is a reasonable thing to do, and hopefully won't alert him to being mindread. When people aren't used to being mindread their thoughts, on being alerted to it, are all about the fact of someone having access to their thoughts, and while maybe he has the - mental discipline - to not do that if he chose, he also might well choose it, over having strategic thoughts where she could hear them.
+-       </p>
+-       <p>
+-       </p>
+-       <p>
+-        She wants to die.
+-       </p>
+-       <p>
+-        She has known for as long as she can remember that someday she will die and go to Hell and be trained out of her bad human habits, free will, nebulously defined and not the sort of thing you were supposed to ask a lot of clarifying questions about, but it's suddenly clear, looking at
+-        <em>
+-         his
+-        </em>
+-        head - free will is the tendency for the mind to wander away from its goals, for the emotions to override thought processes instead of informing them, for the brain to be sticky, burst-driven, impulsive, animalistic-
+-       </p>
+-       <p>
+-        - it was not a correct parse of the situation to guess that Keltham doesn't have free will. He's imperfect at the thing he's been trained to do. He's more like - someone raised from babyhood by Lawful outsiders, or something. He might have free will but he's never been around anyone who used it. And he's - nearly perfect - she would not have guessed that a living person could
+-        <em>
+-         be
+-        </em>
+-        that, could
+-        <em>
+-         have that -
+-        </em>
+-       </p>
+-       <p>
+-        She has known that she would go to Hell and become perfect but she hasn't been
+-        <em>
+-         impatient
+-        </em>
+-        for it. She's impatient for it, now.
+-       </p>
+-       <p>
+-        - set that aside. There's a lot to do first.
+-       </p>
+-       <p>
+-        There's another thing here which she's not going to unpack, but it goes on the list of reasons to ask someone important, if she thinks she has enough bargaining power, which is that - she has read a lot of minds and in general the meta-process, in all of them, is directed at not thinking anything treasonous, or thinking and then immediately rejecting and mentally apologizing for it. His society is ...going for Lawful Good, evidently - but they seem to have not instilled that instinct, he checks when his opinions are heretical to dath ilan but he isn't scared when they are - perhaps because it sounds like dath ilan, as a consequence probably of going for Lawful Good, uses a very light touch on heresy, though of course maybe Keltham would've vanished in the night and just doesn't know it, perhaps his 'plane accident' was in fact deliberate -
+-       </p>
+-       <p>
+-        She reads his Intelligence at 18, maybe 19. Innately as smart as her or a bit smarter - and not particularly notable for his society - his society must be terrifying. A tremendous asset to Asmodeus, if He successfully claims them, and - well, Keltham thought they'd side with Iomedae, immediately, instinctively, just out of horror at the destruction of souls -
+-       </p>
+-       <p>
+-        - she needs to start thinking about how to explain the thing where Hell hurts people without it seeming a conspicuous omission or an obvious dealbreaker, if it ends up being decided that Keltham ought to know.
+-       </p>
+-       <p>
+-        (She is acutely aware of her own meta-thoughts right now, from all that poking at Keltham's, and they're
+-        <em>
+-         scared,
+-        </em>
+-        because usually when she tries thinking about things like Hell hurting the correct thing to do is to steer her mind away, not pressure test counterarguments -)
+-       </p>
+-       <p>
+-        ...this is the kind of thing you ask a priest about.
+-       </p>
+-       <p>
+-        It's also the kind of thing where asking a priest gets you looked into, as a potential dissident. She should wait and see whether in fact someone with Greater Teleport shows up here tonight to take Keltham to a comfortable place; if they do then she has the measure of safety that Keltham might ask about her, and might be annoyed if she'd been arrested and with higher likelihood annoyed if she'd been executed, and that they evidently value Keltham highly. She doesn't know that yet, so no thinking about that yet.
+-       </p>
+-       <p>
+-        If Cheliax were more Keltham-like, would that serve Asmodeus? It seems obviously so. Keltham's world is rich and lawful and selecting for Good, but not
+-        <em>
+-         necessarily
+-        </em>
+-        so, you could do the same thing but prefer the tiny children who suspect a trap in the injured stranger and go off to their wonderful party - or who don't even think of an injured stranger as a fact about the world that demands a response of any kind, any more than people pluck worms off the cobblestones after a rain -
+-       </p>
+-       <p>
+-        She sets that aside, too, and composes a second report for the priest, and resists the urge to watch out of the corner of her eye while Keltham tries to make a god, which she's pretty sure isn't how you make a god but - well, it wouldn't be the most ridiculous thing that had ever happened, and it would necessitate some rapid changes of plans.
+-       </p>
+-      </div>
+-     </div>
+-     <div class="post-footer">
+-      <div class="right-align">
+-       <div class="padding-5">
+-        Posted
+-        <span class="post-posted">
+-         Jul 02, 2021  5:16 PM
+-        </span>
+-       </div>
+-      </div>
+-     </div>
+-    </div>
++    
+     <div class="post-container post-reply">
+      <a class="noheight" id="reply-1619637">
+      </a>
+@@ -1792,865 +1563,7 @@
+        </div>
+       </div>
+      </div>
+-    </div>
+-    <div class="post-container post-reply">
+-     <a class="noheight" id="reply-1619697">
+-     </a>
+-     <div class="padding-10">
+-      <div class="post-info-box">
+-       <div class="post-icon">
+-        <a href="/icons/158671">
+-         <img alt="Screen Shot 2020-09-11 at 8.43.42 PM" class="icon" src="https://d1anwqy6ci9o1i.cloudfront.net/users%2F34%2Ficons%2Fqs9jmbhknhd1gegul2m_Screen+Shot+2020-09-11+at+8.43.42+PM.png" title="Screen Shot 2020-09-11 at 8.43.42 PM">
+-        </a>
+-       </div>
+-       <div class="post-info-text">
+-        <div class="post-character">
+-         <a href="/characters/10348">
+-          Abadar
+-         </a>
+-        </div>
+-        <div class="post-author">
+-         <a href="/users/34">
+-          lintamande
+-         </a>
+-        </div>
+-       </div>
+-      </div>
+-      <div class="post-edit-box">
+-       <a href="/replies/1619697#reply-1619697" rel="alternate">
+-        <img alt="Permalink" src="https://dhtmoj33sf3e0.cloudfront.net/assets/icons/link-02aa7107206d04e6a93ae48a274439dfe67cb8306b3a0755434f3d378e173d28.png" title="Permalink">
+-       </a>
+-      </div>
+-      <div class="post-content">
+-       <p>
+-        There is not a Chaotic Evil god like that, because Keltham was somewhat misinformed about Chaos and also about Evil.
+-       </p>
+-       <p>
+-       </p>
+-       <p>
+-        There is, as it happens, a god like that.
+-       </p>
+-      </div>
+-     </div>
+-     <div class="post-footer">
+-      <div class="right-align">
+-       <div class="padding-5">
+-        Posted
+-        <span class="post-posted">
+-         Jul 04, 2021  5:34 PM
+-        </span>
+-       </div>
+-      </div>
+-     </div>
+-    </div>
+-    <div class="post-container post-reply">
+-     <a class="noheight" id="reply-1619702">
+-     </a>
+-     <div class="padding-10">
+-      <div class="post-info-box">
+-       <div class="post-icon">
+-        <a href="/icons/201764">
+-         <img alt="Abadar" class="icon" src="https://d1anwqy6ci9o1i.cloudfront.net/users%2F366%2Ficons%2Frx2gmru7d7elzg1n64k1d_users_34_icons_qs9jmbhknhd1gegul2m_Screen%2BShot%2B2020-09-11%2Bat%2B8.43.42%2BPM.png" title="Abadar">
+-        </a>
+-       </div>
+-       <div class="post-info-text">
+-        <div class="post-character">
+-         <a href="/characters/11800">
+-          Abadar
+-         </a>
+-        </div>
+-        <div class="post-author">
+-         <a href="/users/366">
+-          Iarwain
+-         </a>
+-        </div>
+-       </div>
+-      </div>
+-      <div class="post-edit-box">
+-       <a href="/replies/1619702#reply-1619702" rel="alternate">
+-        <img alt="Permalink" src="https://dhtmoj33sf3e0.cloudfront.net/assets/icons/link-02aa7107206d04e6a93ae48a274439dfe67cb8306b3a0755434f3d378e173d28.png" title="Permalink">
+-       </a>
+-      </div>
+-      <div class="post-content">
+-       <p>
+-        Among the many disadvantages of shattered prophecy, is that sometimes strange attention-demanding things happen which are
+-        <em>
+-         unscheduled
+-        </em>
+-        .
+-       </p>
+-       <p>
+-        The situation of a god on the planes could be compared to a titan with a hundred thousand eyes, standing atop a mountain, gazing down at a dozen surrounding countries each filled with a billion squirrels. &nbsp;Even as a titan, You cannot think about all the squirrels individually.&nbsp; You can at best set a fraction of Your attention to watching for predefined signals that You have trained the squirrels to use. &nbsp;The squirrels cannot understand the coordinates to align their eyes across many dimensions to look at You. &nbsp;But You can give them a word like "Abadar" and a holy symbol and say a few words about why banks need to exist; and then notice when a squirrel looks in that direction, not quite at You, but more in Your direction than the other titans atop their own mountains.
+-       </p>
+-       <p>
+-        One day, a fraction of Your attention notices a squirrel looking, in one set of subdimensions, along an angle that would be aligned almost exactly on the real You, if the squirrel could get the other dimensions right too.&nbsp; It's surprising because You have never seen a squirrel look in that direction before. &nbsp;You have wished You could explain it to squirrels, but prediction always showed their heads exploding when You tried that, so You didn't try it.
+-       </p>
+-       <p>
+-        Then the squirrel thinks for a bit, and turns its head into another dimension, and looks almost right at the correct angle in that dimension too.
+-       </p>
+-       <p>
+-        The squirrel pauses, visibly (to a god) staring inside itself and deducing further conclusions from premises, and then angles its head and looks almost directly at Your angle in yet another dimension.
+-       </p>
+-       <p>
+-        If the power disparities were not what they were, the squirrel's behavior might be considered reminiscent of a stalking predator, the more humanlike and sadistic kind of monster; who is deliberately crouching down to look under the dresser, standing up, and then crouching down again, only to look under the desk; and the stalker knows all along that you are actually under the bed.&nbsp; You are not frightened, under the circumstances, where the circumstances are that You are a god; but You are definitely
+-        <em>
+-         noticing.
+-        </em>
+-       </p>
+-       <p>
+-        Then the squirrel gathers itself, angles its viewpoint -
+-       </p>
+-       <p>
+-        - and turns to stare
+-        <em>
+-         almost directly at You
+-        </em>
+-        , including some mathy parts that nobody in Axis is allowed by treaty to explain to anybody who might go back to Golarion.
+-       </p>
+-       <p>
+-        You wait for the squirrel to pray to You, to make one of the appeals which You are allowed by treaty to respond to without that being incredibly expensive, so You can (very softly and carefully so it doesn't explode) ask the squirrel what the Abyss is going on, and how a squirrel even got this address.
+-       </p>
+-       <p>
+-        The squirrel thinks loudly about how it might not mind being Your cleric, but
+-        <em>
+-         doesn't actually ask
+-        </em>
+-        .
+-       </p>
+-       <p>
+-        Then the squirrel looks at five gods one after another in the stories-for-mortals coordinates, one of which is the standard wrong address for You.
+-       </p>
+-       <p>
+-        Then the squirrel goes back to thinking.
+-       </p>
+-       <p>
+-        Also the squirrel's body is in an Asmodean church near the Worldwound, its mind looks like a teenaged male raised by modrons, and its immaterial soul is ninety-three minutes old.
+-       </p>
+-       <p>
+-        You would have more attention to pay this sort of anomaly if the surprise had been
+-        <em>
+-         properly scheduled
+-        </em>
+-        like in the other worlds you deal with.
+-       </p>
+-      </div>
+-     </div>
+-     <div class="post-footer">
+-      <div class="right-align">
+-       <div class="padding-5">
+-        Posted
+-        <span class="post-posted">
+-         Jul 04, 2021  5:47 PM
+-        </span>
+-       </div>
+-      </div>
+-     </div>
+-    </div>
+-    <div class="post-container post-reply">
+-     <a class="noheight" id="reply-1620037">
+-     </a>
+-     <div class="padding-10">
+-      <div class="post-info-box">
+-       <div class="post-icon">
+-        <a href="/icons/201764">
+-         <img alt="Abadar" class="icon" src="https://d1anwqy6ci9o1i.cloudfront.net/users%2F366%2Ficons%2Frx2gmru7d7elzg1n64k1d_users_34_icons_qs9jmbhknhd1gegul2m_Screen%2BShot%2B2020-09-11%2Bat%2B8.43.42%2BPM.png" title="Abadar">
+-        </a>
+-       </div>
+-       <div class="post-info-text">
+-        <div class="post-character">
+-         <a href="/characters/11800">
+-          Abadar
+-         </a>
+-        </div>
+-        <div class="post-author">
+-         <a href="/users/366">
+-          Iarwain
+-         </a>
+-        </div>
+-       </div>
+-      </div>
+-      <div class="post-edit-box">
+-       <a href="/replies/1620037#reply-1620037" rel="alternate">
+-        <img alt="Permalink" src="https://dhtmoj33sf3e0.cloudfront.net/assets/icons/link-02aa7107206d04e6a93ae48a274439dfe67cb8306b3a0755434f3d378e173d28.png" title="Permalink">
+-       </a>
+-      </div>
+-      <div class="post-content">
+-       <p>
+-        Entities with very high Intelligence don't make quite the same kind of comical mistakes that humans do.&nbsp; They know what they don't know; they pick up on alternate hypotheses and incongruent facts very early on.&nbsp; They still make comical mistakes, to be clear, as seen from their own perspectives; but different ones.
+-       </p>
+-       <p>
+-        Why is the mortal thinking loudly about being a cleric, but not actually asking?&nbsp; Abadar doesn't know, but He knows that He doesn't know.&nbsp; Among the possibilities is that the mortal, who is in an Asmodean church, is in a life position where suddenly becoming a cleric of Abadar would be inconvenient due to the Asmodean reaction to it.&nbsp; This is only one hypothesis among several; Abadar does not leap to the conclusion.&nbsp; It is not even certain that the mortal was
+-        <em>
+-         deliberately
+-        </em>
+-        choosing not to immediately pray for clerichood, or that the mortal knew that Abadar was watching and might otherwise have responded.&nbsp; That is only one hypothesis group among several.
+-       </p>
+-       <p>
+-        But it is a large
+-        <em>
+-         enough
+-        </em>
+-        strategic-equivalence-class of hypotheses that Abadar is not dropping cleric levels on the mortal right away, in case the mortal definitely didn't want that and was trying to signal so.
+-       </p>
+-       <p>
+-        Could the five gods in the sequence be a deliberate message?&nbsp; The tiny fraction of Abadar's attention that He can spare does consider some possibilities like that; it would be stupid in a sense not to think of them at all.&nbsp; Asmodeus-Abadar-Norgorber-Calistria-Nethys could be interpreted as tyrant-Abadar-murder-revenge-magic, and be an attempted message that somebody was about to assassinate the prince of Osirion, vengefully, using magic.&nbsp; This comical misinterpretation does not actually happen, because if the mortal had wanted to send a message to Abadar, its posture would have changed in a way Abadar could detect; it's part of the posture of treaty-defined prayer.
+-       </p>
+-       <p>
+-        But something strange is clearly happening.&nbsp; And it would be a huge wasted opportunity if this mortal ended up being squished by Asmodeans before it could, at least, tell other mortals some things that Abadar hasn't been allowed to explain directly.
+-       </p>
+-       <p>
+-        But if Abadar calls up Asmodeus and offers to buy the avoidance of squishing this particular squirrel, might that not call the attention of Asmodeus down upon this squirrel, in exactly the way that the squirrel might (on some hypotheses) have been trying to avoid by deliberately not asking Abadar for clerichood?
+-       </p>
+-       <p>
+-        If one were a mortal, one might, perhaps, reason that there is nothing to be done here.&nbsp; But Asmodeus is a Lawful god and does
+-        <em>
+-         not
+-        </em>
+-        generally prefer accidentally stepping on Abadar's goals, over being paid to avoid stepping on Abadar's goals.&nbsp; It would be in some sense
+-        <em>
+-         silly
+-        </em>
+-        if Abadar-and-Asmodeus had no possible coordinated strategy better than Asmodeus's church accidentally squishing a valuable squirrel because Abadar was afraid to talk to Asmodeus about that.&nbsp; They would be noticeably off the Pareto-optimal boundary.
+-       </p>
+-       <p>
+-        Abadar sends a brief packet to Asmodeus which might translate as:
+-       </p>
+-       <p>
+-        <em>
+-         Hey, Asmodeus.&nbsp; I want to reveal information relevant to negotiating a potential gainful trade, where that information itself might otherwise worsen my negotiating position for the trade, on the standard condition that you promise not to use that information to implement strategies that lead to worse outcomes than would have obtained in the counterfactual where I stayed silent, as evaluated by either my utility function or by the best-guess probable utility function of another party who revealed that information to me.
+-        </em>
+-       </p>
+-      </div>
+-     </div>
+-     <div class="post-footer">
+-      <div class="right-align">
+-       <div class="padding-5">
+-        Posted
+-        <span class="post-posted">
+-         Jul 05, 2021  2:23 AM
+-        </span>
+-        | Updated
+-        <span class="post-updated">
+-         Jul 05, 2021  9:13 AM
+-        </span>
+-        |
+-        <a class="post-history" href="/replies/1620037/history">
+-         See History
+-        </a>
+-       </div>
+-      </div>
+-     </div>
+-    </div>
+-    <div class="post-container post-reply">
+-     <a class="noheight" id="reply-1620066">
+-     </a>
+-     <div class="padding-10">
+-      <div class="post-info-box">
+-       <div class="post-icon">
+-        <a href="/icons/158670">
+-         <img alt="Screen Shot 2020-09-11 at 8.26.10 PM" class="icon" src="https://d1anwqy6ci9o1i.cloudfront.net/users%2F34%2Ficons%2Fvji9m2s8dihkc6l2oswi6_Screen+Shot+2020-09-11+at+8.26.10+PM.png" title="Screen Shot 2020-09-11 at 8.26.10 PM">
+-        </a>
+-       </div>
+-       <div class="post-info-text">
+-        <div class="post-character">
+-         <a href="/characters/10347">
+-          Asmodeus
+-         </a>
+-        </div>
+-        <div class="post-author">
+-         <a href="/users/34">
+-          lintamande
+-         </a>
+-        </div>
+-       </div>
+-      </div>
+-      <div class="post-edit-box">
+-       <a href="/replies/1620066#reply-1620066" rel="alternate">
+-        <img alt="Permalink" src="https://dhtmoj33sf3e0.cloudfront.net/assets/icons/link-02aa7107206d04e6a93ae48a274439dfe67cb8306b3a0755434f3d378e173d28.png" title="Permalink">
+-       </a>
+-      </div>
+-      <div class="post-content">
+-       <p>
+-        Acknowledged, agreed to.
+-       </p>
+-       <p>
+-        Humans trying to make a similar arrangement might be relying on reputation: "the last thousand times we did this, he kept his end" - or character: "he seems like the sort of person who'd keep his word" - or consequences: "breaking his word would be punished" - or the prospects of future cooperation: "if he betrays the agreement this time, we won't be able to do this in future, which would be a loss to him". Gods can just make parts of them legible to one another, and promise with those; Asmodeus is in part keeping-of-agreements, and if all of those sources-of-motivation suddenly failed to obtain there would still be the agreement itself, in no sense weakened. Not everything about Him is knowable, not even to other gods, but this is.
+-       </p>
+-       <p>
+-        (Some humans understand this, in part, and think that it means Asmodeus can be outwitted; if He gives His word unwisely, after all, He will keep it, and if you cleverly trap Him into promising you wealth and power, or the right to reign in Hell, or anything else, He would follow through. This is true, but if you think you've found an opportunity to do it, you haven't.)
+-       </p>
+-       <p>
+-        Asmodeus is curious, but only slightly; most of His attention is in other places, doing other things.
+-       </p>
+-      </div>
+-     </div>
+-     <div class="post-footer">
+-      <div class="right-align">
+-       <div class="padding-5">
+-        Posted
+-        <span class="post-posted">
+-         Jul 05, 2021  5:34 AM
+-        </span>
+-       </div>
+-      </div>
+-     </div>
+-    </div>
+-    <div class="post-container post-reply">
+-     <a class="noheight" id="reply-1620074">
+-     </a>
+-     <div class="padding-10">
+-      <div class="post-info-box">
+-       <div class="post-icon">
+-        <a href="/icons/201764">
+-         <img alt="Abadar" class="icon" src="https://d1anwqy6ci9o1i.cloudfront.net/users%2F366%2Ficons%2Frx2gmru7d7elzg1n64k1d_users_34_icons_qs9jmbhknhd1gegul2m_Screen%2BShot%2B2020-09-11%2Bat%2B8.43.42%2BPM.png" title="Abadar">
+-        </a>
+-       </div>
+-       <div class="post-info-text">
+-        <div class="post-character">
+-         <a href="/characters/11800">
+-          Abadar
+-         </a>
+-        </div>
+-        <div class="post-author">
+-         <a href="/users/366">
+-          Iarwain
+-         </a>
+-        </div>
+-       </div>
+-      </div>
+-      <div class="post-edit-box">
+-       <a href="/replies/1620074#reply-1620074" rel="alternate">
+-        <img alt="Permalink" src="https://dhtmoj33sf3e0.cloudfront.net/assets/icons/link-02aa7107206d04e6a93ae48a274439dfe67cb8306b3a0755434f3d378e173d28.png" title="Permalink">
+-       </a>
+-      </div>
+-      <div class="post-content">
+-       <p>
+-        A mortal has had an unshared insight into Abadar's domain.&nbsp; This mortal is probably but not definitely under the power of or threatenable by Asmodeus/Cheliax/the Asmodean church.&nbsp; Abadar wants to pay to modify future events so that the mortal doesn't end up dead and soul-trapped/
+-        <em>
+-         maledicted
+-        </em>
+-        in a way that prevents Osirians from resurrecting it; nor spending nearly all of its natural lifespan in Cheliax or prison never talking extensively with Abadar's followers; nor tortured by Asmodeans into not being in an Abadaran shape; nor traumatized (eg by having all of its friends and family tortured) to the point where it'd no longer be an inspiring teacher if Abadar/Osirion paid it to do that.&nbsp; (Abadar doesn't need to explicitly list brain damage and mindwipes as also undesirable; He mainly sends a specification over ultimate consequences.)
+-       </p>
+-       <p>
+-        Abadar honestly discloses that this mortal may or may not be opposing some ongoing Asmodean plan, as mortals sometimes end up doing.&nbsp; Abadar doesn't know this, but has seen 1.8 bits of evidence over the prior.&nbsp; If so, Abadar is not offering to pay for letting the mortal have free reign to oppose Asmodeus unopposed, or anything that expensive; He just wants to pay for having the mortal delivered to Osirion afterwards instead of squished.&nbsp; Abadar did however find all this out, through what seemed like a voluntary high-trust action of revelation from the mortal.&nbsp; So information from this negotiation itself, especially that the mortal might have plans opposing Asmodeans, must not be used to further Asmodeus's interests at the mortal's expense, if Abadar points out the mortal to Asmodeus.&nbsp; (That Asmodeus should not eg try to falsely depict Abadar as having betrayed the mortal to Him, follows automatically from the previous goal-spec.)
+-       </p>
+-       <p>
+-        Abadar mainly predicts this would cost Asmodeus one revelation to Asmodeans via priest or devil; whatever marginal value Asmodeus could otherwise get by torturing one mortal instead of coaxing it; possibly it being marginally harder to oppose the mortal's opposition to some unknown plan; and attention / cost-of-thought.
+-       </p>
+-       <p>
+-        If Asmodeus has a price on that, agreeable to Abadar, Abadar can give distinguishing characteristics for the mortal in question.
+-       </p>
+-       <p>
+-        (It's a marginally more complicated negotiation than, say, Iomedae would demand; with Iomedae, Abadar would just offer to pay for some utility, since She knows Abadar's utility function.&nbsp; Indeed, Iomedae could just ask for fair reimbursement afterwards; He's Lawful, She's Lawful.
+-        <em>
+-         Asmodeus
+-        </em>
+-        has stated a preference for fully specified contracts with advance-agreed payments based on expected values instead of actual values, and the thing where parties retain some private information while trying to guess how much private information the other party has.&nbsp; It tends to favor the party with higher Intelligence in negotiations, but Asmodeus apparently still does it even when the other party realizes that and adjusts prices accordingly.&nbsp; He just likes contracts.&nbsp; Abadar is happy enough to go along with it in cases like this one where that reduces Abadar's payment's variance across counterfactuals.)
+-       </p>
+-      </div>
+-     </div>
+-     <div class="post-footer">
+-      <div class="right-align">
+-       <div class="padding-5">
+-        Posted
+-        <span class="post-posted">
+-         Jul 05, 2021  9:04 AM
+-        </span>
+-        | Updated
+-        <span class="post-updated">
+-         Jul 05, 2021  9:25 AM
+-        </span>
+-        |
+-        <a class="post-history" href="/replies/1620074/history">
+-         See History
+-        </a>
+-       </div>
+-      </div>
+-     </div>
+-    </div>
+-    <div class="post-container post-reply">
+-     <a class="noheight" id="reply-1620250">
+-     </a>
+-     <div class="padding-10">
+-      <div class="post-info-box">
+-       <div class="post-icon">
+-        <a href="/icons/158670">
+-         <img alt="Screen Shot 2020-09-11 at 8.26.10 PM" class="icon" src="https://d1anwqy6ci9o1i.cloudfront.net/users%2F34%2Ficons%2Fvji9m2s8dihkc6l2oswi6_Screen+Shot+2020-09-11+at+8.26.10+PM.png" title="Screen Shot 2020-09-11 at 8.26.10 PM">
+-        </a>
+-       </div>
+-       <div class="post-info-text">
+-        <div class="post-character">
+-         <a href="/characters/10347">
+-          Asmodeus
+-         </a>
+-        </div>
+-        <div class="post-author">
+-         <a href="/users/34">
+-          lintamande
+-         </a>
+-        </div>
+-       </div>
+-      </div>
+-      <div class="post-edit-box">
+-       <a href="/replies/1620250#reply-1620250" rel="alternate">
+-        <img alt="Permalink" src="https://dhtmoj33sf3e0.cloudfront.net/assets/icons/link-02aa7107206d04e6a93ae48a274439dfe67cb8306b3a0755434f3d378e173d28.png" title="Permalink">
+-       </a>
+-      </div>
+-      <div class="post-content">
+-       <p>
+-        Asmodeus considers this. A human would be tempted to try to identify the mortal based on the information provided, and it happens that in this case that would probably be possible, but Asmodeus does not do that; it would be resource-intensive, and He is committed to not using the information, and He is not in the habit of acquiring information He can't use.
+-       </p>
+-       <p>
+-       </p>
+-       <p>
+-        He names a price.
+-       </p>
+-      </div>
+-     </div>
+-     <div class="post-footer">
+-      <div class="right-align">
+-       <div class="padding-5">
+-        Posted
+-        <span class="post-posted">
+-         Jul 05, 2021  3:54 PM
+-        </span>
+-       </div>
+-      </div>
+-     </div>
+-    </div>
+-    <div class="post-container post-reply">
+-     <a class="noheight" id="reply-1620256">
+-     </a>
+-     <div class="padding-10">
+-      <div class="post-info-box">
+-       <div class="post-icon">
+-        <a href="/icons/201764">
+-         <img alt="Abadar" class="icon" src="https://d1anwqy6ci9o1i.cloudfront.net/users%2F366%2Ficons%2Frx2gmru7d7elzg1n64k1d_users_34_icons_qs9jmbhknhd1gegul2m_Screen%2BShot%2B2020-09-11%2Bat%2B8.43.42%2BPM.png" title="Abadar">
+-        </a>
+-       </div>
+-       <div class="post-info-text">
+-        <div class="post-character">
+-         <a href="/characters/11800">
+-          Abadar
+-         </a>
+-        </div>
+-        <div class="post-author">
+-         <a href="/users/366">
+-          Iarwain
+-         </a>
+-        </div>
+-       </div>
+-      </div>
+-      <div class="post-edit-box">
+-       <a href="/replies/1620256#reply-1620256" rel="alternate">
+-        <img alt="Permalink" src="https://dhtmoj33sf3e0.cloudfront.net/assets/icons/link-02aa7107206d04e6a93ae48a274439dfe67cb8306b3a0755434f3d378e173d28.png" title="Permalink">
+-       </a>
+-      </div>
+-      <div class="post-content">
+-       <p>
+-        Sold!&nbsp; It's this mortal in an Asmodean church at the Worldwound.&nbsp; You can't miss it, it's the incredibly odd one.
+-       </p>
+-      </div>
+-     </div>
+-     <div class="post-footer">
+-      <div class="right-align">
+-       <div class="padding-5">
+-        Posted
+-        <span class="post-posted">
+-         Jul 05, 2021  3:57 PM
+-        </span>
+-       </div>
+-      </div>
+-     </div>
+-    </div>
+-    <div class="post-container post-reply">
+-     <a class="noheight" id="reply-1620259">
+-     </a>
+-     <div class="padding-10">
+-      <div class="post-info-box">
+-       <div class="post-icon">
+-        <a href="/icons/158670">
+-         <img alt="Screen Shot 2020-09-11 at 8.26.10 PM" class="icon" src="https://d1anwqy6ci9o1i.cloudfront.net/users%2F34%2Ficons%2Fvji9m2s8dihkc6l2oswi6_Screen+Shot+2020-09-11+at+8.26.10+PM.png" title="Screen Shot 2020-09-11 at 8.26.10 PM">
+-        </a>
+-       </div>
+-       <div class="post-info-text">
+-        <div class="post-character">
+-         <a href="/characters/10347">
+-          Asmodeus
+-         </a>
+-        </div>
+-        <div class="post-author">
+-         <a href="/users/34">
+-          lintamande
+-         </a>
+-        </div>
+-       </div>
+-      </div>
+-      <div class="post-edit-box">
+-       <a href="/replies/1620259#reply-1620259" rel="alternate">
+-        <img alt="Permalink" src="https://dhtmoj33sf3e0.cloudfront.net/assets/icons/link-02aa7107206d04e6a93ae48a274439dfe67cb8306b3a0755434f3d378e173d28.png" title="Permalink">
+-       </a>
+-      </div>
+-      <div class="post-content">
+-       <p>
+-        - huh, that is an odd one! Does Abadar happen to know why it's adult-shaped but apparently a newborn baby? He's not willing to pay much for that information but it seems of mutual interest if there were a way to make adult-shaped humans without the expensive baby stage.
+-       </p>
+-       <p>
+-       </p>
+-       <p>
+-        (The cleric praying to Asmodeus in that church gets a vision.)
+-       </p>
+-      </div>
+-     </div>
+-     <div class="post-footer">
+-      <div class="right-align">
+-       <div class="padding-5">
+-        Posted
+-        <span class="post-posted">
+-         Jul 05, 2021  4:00 PM
+-        </span>
+-        | Updated
+-        <span class="post-updated">
+-         Jul 05, 2021  4:00 PM
+-        </span>
+-        |
+-        <a class="post-history" href="/replies/1620259/history">
+-         See History
+-        </a>
+-       </div>
+-      </div>
+-     </div>
+-    </div>
+-    <div class="post-container post-reply">
+-     <a class="noheight" id="reply-1620264">
+-     </a>
+-     <div class="padding-10">
+-      <div class="post-info-box">
+-       <div class="post-icon">
+-        <a href="/icons/201764">
+-         <img alt="Abadar" class="icon" src="https://d1anwqy6ci9o1i.cloudfront.net/users%2F366%2Ficons%2Frx2gmru7d7elzg1n64k1d_users_34_icons_qs9jmbhknhd1gegul2m_Screen%2BShot%2B2020-09-11%2Bat%2B8.43.42%2BPM.png" title="Abadar">
+-        </a>
+-       </div>
+-       <div class="post-info-text">
+-        <div class="post-character">
+-         <a href="/characters/11800">
+-          Abadar
+-         </a>
+-        </div>
+-        <div class="post-author">
+-         <a href="/users/366">
+-          Iarwain
+-         </a>
+-        </div>
+-       </div>
+-      </div>
+-      <div class="post-edit-box">
+-       <a href="/replies/1620264#reply-1620264" rel="alternate">
+-        <img alt="Permalink" src="https://dhtmoj33sf3e0.cloudfront.net/assets/icons/link-02aa7107206d04e6a93ae48a274439dfe67cb8306b3a0755434f3d378e173d28.png" title="Permalink">
+-       </a>
+-      </div>
+-      <div class="post-content">
+-       <p>
+-        Abadar has
+-        <em>
+-         no clue
+-        </em>
+-        (lit: plenty of hypotheses and no evidence) who this mortal is or what is going on, but it sure does look Lawful.&nbsp; It is possible that some glitch has occurred, and that this represents a profit opportunity for Law.
+-       </p>
+-      </div>
+-     </div>
+-     <div class="post-footer">
+-      <div class="right-align">
+-       <div class="padding-5">
+-        Posted
+-        <span class="post-posted">
+-         Jul 05, 2021  4:04 PM
+-        </span>
+-       </div>
+-      </div>
+-     </div>
+-    </div>
+-    <div class="post-container post-reply">
+-     <a class="noheight" id="reply-1620272">
+-     </a>
+-     <div class="padding-10">
+-      <div class="post-info-box">
+-       <div class="post-icon">
+-        <a href="/icons/8566">
+-         <img alt="silmaril" class="icon" src="https://d1anwqy6ci9o1i.cloudfront.net/users%2F34%2Ficons%2F0ba88b6e-fc67-4055-94de-26b4c3b40070_silmaril2.jpg" title="silmaril">
+-        </a>
+-       </div>
+-       <div class="post-info-text">
+-        <div class="spacer-alt">
+-        </div>
+-        <div class="post-author">
+-         <a href="/users/34">
+-          lintamande
+-         </a>
+-        </div>
+-       </div>
+-      </div>
+-      <div class="post-edit-box">
+-       <a href="/replies/1620272#reply-1620272" rel="alternate">
+-        <img alt="Permalink" src="https://dhtmoj33sf3e0.cloudfront.net/assets/icons/link-02aa7107206d04e6a93ae48a274439dfe67cb8306b3a0755434f3d378e173d28.png" title="Permalink">
+-       </a>
+-      </div>
+-      <div class="post-content">
+-       <p>
+-        The priest stands up, shaking. Waves Carissa over. "There's a scroll of Sending in a locked box in the back room; here's the key. Bring it back."
+-       </p>
+-      </div>
+-     </div>
+-     <div class="post-footer">
+-      <div class="right-align">
+-       <div class="padding-5">
+-        Posted
+-        <span class="post-posted">
+-         Jul 05, 2021  4:11 PM
+-        </span>
+-       </div>
+-      </div>
+-     </div>
+-    </div>
+-    <div class="post-container post-reply">
+-     <a class="noheight" id="reply-1620274">
+-     </a>
+-     <div class="padding-10">
+-      <div class="post-info-box">
+-       <div class="post-icon">
+-        <a href="/icons/172870">
+-         <img alt="Screen Shot 2020-11-30 at 9.00.47 AM" class="icon" src="https://d1anwqy6ci9o1i.cloudfront.net/users%2F34%2Ficons%2F437irrdf9kcuwnvo30vmsj_Screen+Shot+2020-11-30+at+9.00.47+AM.png" title="Screen Shot 2020-11-30 at 9.00.47 AM">
+-        </a>
+-       </div>
+-       <div class="post-info-text">
+-        <div class="post-character">
+-         <a href="/characters/10397">
+-          Carissa Sevar
+-         </a>
+-        </div>
+-        <div class="post-screenname">
+-         to-let-you-in
+-        </div>
+-        <div class="post-author">
+-         <a href="/users/34">
+-          lintamande
+-         </a>
+-        </div>
+-       </div>
+-      </div>
+-      <div class="post-edit-box">
+-       <a href="/replies/1620274#reply-1620274" rel="alternate">
+-        <img alt="Permalink" src="https://dhtmoj33sf3e0.cloudfront.net/assets/icons/link-02aa7107206d04e6a93ae48a274439dfe67cb8306b3a0755434f3d378e173d28.png" title="Permalink">
+-       </a>
+-      </div>
+-      <div class="post-content">
+-       <p>
+-        She's not going to ask what happened; it's none of her business. She goes and gets it.
+-       </p>
+-      </div>
+-     </div>
+-     <div class="post-footer">
+-      <div class="right-align">
+-       <div class="padding-5">
+-        Posted
+-        <span class="post-posted">
+-         Jul 05, 2021  4:11 PM
+-        </span>
+-       </div>
+-      </div>
+-     </div>
+-    </div>
+-    <div class="post-container post-reply">
+-     <a class="noheight" id="reply-1620277">
+-     </a>
+-     <div class="padding-10">
+-      <div class="post-info-box">
+-       <div class="post-icon">
+-        <a href="/icons/8566">
+-         <img alt="silmaril" class="icon" src="https://d1anwqy6ci9o1i.cloudfront.net/users%2F34%2Ficons%2F0ba88b6e-fc67-4055-94de-26b4c3b40070_silmaril2.jpg" title="silmaril">
+-        </a>
+-       </div>
+-       <div class="post-info-text">
+-        <div class="spacer-alt">
+-        </div>
+-        <div class="post-author">
+-         <a href="/users/34">
+-          lintamande
+-         </a>
+-        </div>
+-       </div>
+-      </div>
+-      <div class="post-edit-box">
+-       <a href="/replies/1620277#reply-1620277" rel="alternate">
+-        <img alt="Permalink" src="https://dhtmoj33sf3e0.cloudfront.net/assets/icons/link-02aa7107206d04e6a93ae48a274439dfe67cb8306b3a0755434f3d378e173d28.png" title="Permalink">
+-       </a>
+-      </div>
+-      <div class="post-content">
+-       <p>
+-        "Urgently with direct input from Asmodeus requesting seventh-circle pickup at the Worldwound, pursuant to earlier communications, more info on arrival."
+-       </p>
+-      </div>
+-     </div>
+-     <div class="post-footer">
+-      <div class="right-align">
+-       <div class="padding-5">
+-        Posted
+-        <span class="post-posted">
+-         Jul 05, 2021  4:13 PM
+-        </span>
+-       </div>
+-      </div>
+-     </div>
+-    </div>
+-    <div class="post-container post-reply">
+-     <a class="noheight" id="reply-1620279">
+-     </a>
+-     <div class="padding-10">
+-      <div class="post-info-box">
+-       <div class="post-icon">
+-        <a href="/icons/159709">
+-         <img alt="carissa9" class="icon" src="https://d1anwqy6ci9o1i.cloudfront.net/users%2F34%2Ficons%2Fb21ogufkuir94ztyth28a_carissa9.png" title="carissa9">
+-        </a>
+-       </div>
+-       <div class="post-info-text">
+-        <div class="post-character">
+-         <a href="/characters/10397">
+-          Carissa Sevar
+-         </a>
+-        </div>
+-        <div class="post-screenname">
+-         to-let-you-in
+-        </div>
+-        <div class="post-author">
+-         <a href="/users/34">
+-          lintamande
+-         </a>
+-        </div>
+-       </div>
+-      </div>
+-      <div class="post-edit-box">
+-       <a href="/replies/1620279#reply-1620279" rel="alternate">
+-        <img alt="Permalink" src="https://dhtmoj33sf3e0.cloudfront.net/assets/icons/link-02aa7107206d04e6a93ae48a274439dfe67cb8306b3a0755434f3d378e173d28.png" title="Permalink">
+-       </a>
+-      </div>
+-      <div class="post-content">
+-       <p>
+-       </p>
+-       <p>
+-        "Should I - pack."
+-       </p>
+-      </div>
+-     </div>
+-     <div class="post-footer">
+-      <div class="right-align">
+-       <div class="padding-5">
+-        Posted
+-        <span class="post-posted">
+-         Jul 05, 2021  4:13 PM
+-        </span>
+-       </div>
+-      </div>
+-     </div>
+-    </div>
+-    <div class="post-container post-reply">
+-     <a class="noheight" id="reply-1620283">
+-     </a>
+-     <div class="padding-10">
+-      <div class="post-info-box">
+-       <div class="post-icon">
+-        <a href="/icons/8566">
+-         <img alt="silmaril" class="icon" src="https://d1anwqy6ci9o1i.cloudfront.net/users%2F34%2Ficons%2F0ba88b6e-fc67-4055-94de-26b4c3b40070_silmaril2.jpg" title="silmaril">
+-        </a>
+-       </div>
+-       <div class="post-info-text">
+-        <div class="spacer-alt">
+-        </div>
+-        <div class="post-author">
+-         <a href="/users/34">
+-          lintamande
+-         </a>
+-        </div>
+-       </div>
+-      </div>
+-      <div class="post-edit-box">
+-       <a href="/replies/1620283#reply-1620283" rel="alternate">
+-        <img alt="Permalink" src="https://dhtmoj33sf3e0.cloudfront.net/assets/icons/link-02aa7107206d04e6a93ae48a274439dfe67cb8306b3a0755434f3d378e173d28.png" title="Permalink">
+-       </a>
+-      </div>
+-      <div class="post-content">
+-       <p>
+-        "Hmmm? Your notes, leave your spare uniform. Don't interact with him further until I've briefed you, absolutely don't enchant him."
+-       </p>
+-      </div>
+-     </div>
+-     <div class="post-footer">
+-      <div class="right-align">
+-       <div class="padding-5">
+-        Posted
+-        <span class="post-posted">
+-         Jul 05, 2021  4:16 PM
+-        </span>
+-        | Updated
+-        <span class="post-updated">
+-         Jan 06, 2022 12:58 AM
+-        </span>
+-        |
+-        <a class="post-history" href="/replies/1620283/history">
+-         See History
+-        </a>
+-       </div>
+-      </div>
+-     </div>
+-    </div>
+-    <div class="post-container post-reply">
+-     <a class="noheight" id="reply-1620286">
+-     </a>
+-     <div class="padding-10">
+-      <div class="post-info-box">
+-       <div class="post-icon">
+-        <a href="/icons/172870">
+-         <img alt="Screen Shot 2020-11-30 at 9.00.47 AM" class="icon" src="https://d1anwqy6ci9o1i.cloudfront.net/users%2F34%2Ficons%2F437irrdf9kcuwnvo30vmsj_Screen+Shot+2020-11-30+at+9.00.47+AM.png" title="Screen Shot 2020-11-30 at 9.00.47 AM">
+-        </a>
+-       </div>
+-       <div class="post-info-text">
+-        <div class="post-character">
+-         <a href="/characters/10397">
+-          Carissa Sevar
+-         </a>
+-        </div>
+-        <div class="post-screenname">
+-         to-let-you-in
+-        </div>
+-        <div class="post-author">
+-         <a href="/users/34">
+-          lintamande
+-         </a>
+-        </div>
+-       </div>
+-      </div>
+-      <div class="post-edit-box">
+-       <a href="/replies/1620286#reply-1620286" rel="alternate">
+-        <img alt="Permalink" src="https://dhtmoj33sf3e0.cloudfront.net/assets/icons/link-02aa7107206d04e6a93ae48a274439dfe67cb8306b3a0755434f3d378e173d28.png" title="Permalink">
+-       </a>
+-      </div>
+-      <div class="post-content">
+-       <p>
+-        There is something - heady, terrifying, validating - about knowing Asmodeus has involved Himself. He sees it too, she thinks, even though that's absurdly prideful, to imagine they're seeing the same things at all, to imagine 'seeing' is a good word to cover the both of them. She goes and packs.
+-       </p>
+-      </div>
+-     </div>
+-     <div class="post-footer">
+-      <div class="right-align">
+-       <div class="padding-5">
+-        Posted
+-        <span class="post-posted">
+-         Jul 05, 2021  4:17 PM
+-        </span>
+-       </div>
+-      </div>
+-     </div>
+-    </div>
+-    <div class="post-container post-reply">
++    </div><div class="post-container post-reply">
+      <a class="noheight" id="reply-1620296">
+      </a>
+      <div class="padding-10">
+@@ -3312,13 +2225,8 @@
+         <img alt="Permalink" src="https://dhtmoj33sf3e0.cloudfront.net/assets/icons/link-02aa7107206d04e6a93ae48a274439dfe67cb8306b3a0755434f3d378e173d28.png" title="Permalink">
+        </a>
+       </div>
+-      <div class="post-content">
+-       <p>
+-        The local priest directly got a vision from Asmodeus about it which sort of sets a very high lower bound on how important it must be. They're not saying that, though. The wizard who mindread him thinks that his world has successfully figured out how to raise humans who can almost completely compensate for having free will, and think like outsiders. They're not saying that either, though.
+-       </p>
+-       <p>
+-        The right tack here is humility. "I haven't actually met people from any other worlds and I would not have trouble believing I am underestimating how different yours is."
+-       </p>
++      <div class="post-content">"I haven't actually met people from any other worlds and I would not have trouble believing I am underestimating how different yours is."
++       
+       </div>
+      </div>
+      <div class="post-footer">
+@@ -3445,7 +2353,7 @@
+       </div>
+       <div class="post-content">
+        <p>
+-        The man thinks about this, for about ten seconds, like it's in fact a lot of new information about something.
++        The man thinks about this, for about ten seconds.
+        </p>
+        <p>
+         "- deal," he says. And then something over his shoulder to Carissa.
+@@ -3495,8 +2403,7 @@
+        </a>
+       </div>
+       <div class="post-content">
+-       <p>
+-        Who understood none of that and has only half a guess at the flavor. "Yes, I'm coming." She takes Cortess's arm.
++       <p>"Yes, I'm coming." She takes Cortess's arm.
+        </p>
+       </div>
+      </div>
+@@ -3596,7 +2503,7 @@
+        <p>
+        </p>
+        <p>
+-        They're in the summer villa of the Archduke Henderthane of Sirmium, requisitioned five minutes ago in a very rushed conversation with the Queen's personal pit fiend. It's on eighteen hundred acres, the house itself at the peak of the cliffs looking out across the Inner Sea. All the prettiest girls at the local wizard school have been dragged over and set loose in the library.
++        [TODO] They're in the summer villa of the Archduke Henderthane of Sirmium, requisitioned five minutes ago in a very rushed conversation with the Queen's personal pit fiend. It's on eighteen hundred acres, the house itself at the peak of the cliffs looking out across the Inner Sea. All the prettiest girls at the local wizard school have been dragged over and set loose in the library.
+        </p>
+        <p>
+         The society that made this was poor but the person who made this was rich; labor was cheap for him, and it's very beautiful stonework.
+@@ -3709,7 +2616,7 @@
+       </div>
+       <div class="post-content">
+        <p>
+-        No one can talk to him until the seventh circle wizard prepares and casts Share Language in any event, which takes him about ten minutes; he sits down on the nearest bench and his fingers twitch in the air as if tracking something very complicated. Carissa watches raptly.
++        [TODO] No one can talk to him until the seventh circle wizard prepares and casts Share Language in any event, which takes him about ten minutes; he sits down on the nearest bench and his fingers twitch in the air as if tracking something very complicated. Carissa watches raptly.
+        </p>
+        <p>
+        </p>
+@@ -3960,19 +2867,8 @@
+         <img alt="Permalink" src="https://dhtmoj33sf3e0.cloudfront.net/assets/icons/link-02aa7107206d04e6a93ae48a274439dfe67cb8306b3a0755434f3d378e173d28.png" title="Permalink">
+        </a>
+       </div>
+-      <div class="post-content">
+-       <p>
+-        The wizard reminds himself of the thing he's been reminding himself of for the last eleven minutes which is that this is an
+-        <em>
+-         alien
+-        </em>
+-        and even if they look deceptively human they don't think that way.
+-       </p>
+-       <p>
+-       </p>
+-       <p>
+-        He nods. "You're welcome. The spell expires every day. Since it's only [second-circle], Sevar can cast it for you when it needs refreshing. People find that after a couple months of it they usually just know the new language even without a spell, at least for the words they in fact use. Cheliax is glad to have you here, and hopes for the success of your endeavors, and hopes that your genius will be represented in our children."
+-       </p>
++      <div class="post-content">He nods. "You're welcome. The spell expires every day. Since it's only [second-circle], Sevar can cast it for you when it needs refreshing. People find that after a couple months of it they usually just know the new language even without a spell, at least for the words they in fact use. Cheliax is glad to have you here, and hopes for the success of your endeavors, and hopes that your genius will be represented in our children."
++       
+       </div>
+      </div>
+      <div class="post-footer">
+@@ -4418,8 +3314,7 @@
+        </a>
+       </div>
+       <div class="post-content">
+-       <p>
+-        She's so absolutely been entertaining heresies since her last mind review and she's relieved his society has that concept too. "I assume they'll send a priest along for that eventually but I was -" She's enlisted and goes where the crown sends her, which is here. " - thinking of joining whatever gets set up.
++       <p>"I assume they'll send a priest along for that eventually but I was thinking of joining whatever gets set up.
+         <em>
+          My
+         </em>
+@@ -4687,8 +3582,7 @@
+        </a>
+       </div>
+       <div class="post-content">
+-       <p>
+-        Oh, are they doing straight faces. "Sevar's my family name. Carissa's my familiar one. Do they not have that, where you're from?"
++       <p>[TODO] Oh, are they doing straight faces. "Sevar's my family name. Carissa's my familiar one. Do they not have that, where you're from?"
+        </p>
+       </div>
+      </div>
+@@ -5375,7 +4269,7 @@
+       </div>
+       <div class="post-content">
+        <p>
+-        - wow, plumbing. She casts
++        [TODO] - wow, plumbing. She casts
+         <em>
+          Detect Magic
+         </em>
+@@ -6302,8 +5196,7 @@
+        </a>
+       </div>
+       <div class="post-content">
+-       <p>
+-        At least they have the concept of theft, she was starting to be slightly worried they didn't! "Probably you should have personal security whenever you leave the house but they should be safe enough here. Probably have me launder them with magic instead of giving them to the housekeepers, lest they damage them."
++       <p>"Probably you should have personal security whenever you leave the house but they should be safe enough here. Probably have me launder them with magic instead of giving them to the housekeepers, lest they damage them."
+        </p>
+       </div>
+      </div>
+@@ -6407,7 +5300,7 @@
+       </div>
+       <div class="post-content">
+        <p>
+-        "Yes." She can go double check afterwards but it seems like probably 'direct word from Asmodeus' is enough justification for a lot of people parked outside keeping Keltham safe. And keeping him from leaving.
++        "Yes."
+        </p>
+       </div>
+      </div>
