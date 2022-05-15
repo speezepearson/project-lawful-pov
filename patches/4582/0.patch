@@ -1,0 +1,86 @@
+--- out/4582/0/before-edit.html	2022-05-15 18:25:07.335130848 +0200
++++ out/4582/0/after-edit.html	2022-05-15 18:27:27.422221060 +0200
+@@ -381,9 +381,7 @@
+ 
+             document.getElementById(&quot;copy_dom_button_0&quot;).innerText = &quot;Copied!&quot;;
+         })()
+-      ">
+-     Click me before making any edits, then paste into before-edit.html
+-    </button>
++      ">Copied!</button>
+     <div class="paginator centered sub">
+      <div class="paginator-meta">
+       <div class="left-align">
+@@ -1254,7 +1252,7 @@
+       </div>
+       <div class="post-content">
+        <p>
+-        She casts Tongues. "Say that again?" she says, in Baseline.
++        She traces an intricate pattern in the air with one hand. "Say that again?" she says, in Baseline.
+        </p>
+       </div>
+      </div>
+@@ -1595,7 +1593,7 @@
+        <p>
+        </p>
+        <p>
+-        "...dead people usually go to afterlives," she says. Start with the bit you are confident about. "They don't cease to exist entirely, usually, that sounds awful. Some people get eaten in their afterlives but it's not, you know, a common thing - and you can just not go to Abaddon, which is the afterlife where you get eaten - sorry, the translation's very -
++        "...dead people usually go to afterlives. They don't cease to exist entirely, usually, that sounds awful. Some people get eaten in their afterlives but it's not, you know, a common thing - and you can just not go to Abaddon, which is the afterlife where you get eaten - sorry, the translation's very -
+        </p>
+        <p>
+         - very -
+@@ -2625,8 +2623,7 @@
+        </a>
+       </div>
+       <div class="post-content">
+-       <p>
+-        - Carissa's going to try not to feel insulted! Lots of people have done lots of studying of gods. Admittedly not usually with math, that she is aware of. "If we're needed for anything I'm sure we'll be informed. Should we sit down by a fire and I can try...explaining things to you...until my spell runs out?"
++       <p>"If we're needed for anything I'm sure we'll be informed. Should we sit down by a fire and I can try...explaining things to you...until my spell runs out?"
+        </p>
+       </div>
+      </div>
+@@ -4117,8 +4114,7 @@
+       </div>
+       <div class="post-content">
+        <p>
+-        "It is better to have done Asmodeus a favor than not have done Asmodeus a favor, in terms of Asmodeus's inclinations towards you, I think probably the church'll give you money and a nice place to stay once I explain all of this. You should not count on that with nonLawful gods though they're still mostly, excluding Nethys, sane, and aware mortals can track our incentives ...probably the church'll want you back in Cheliax, not here at the Worldwound, where sometimes there are demons. I think you'll like it better, the weather's nicer and there are more - nice things of the sort I presume you're accustomed to, are there specifics I should mention?" The running list in her head already is 'admiration, women, money beyond ability to spend it', which seems like quite enough, really, but maybe also he likes a specific fruit.
+-       </p>
++        "It is better to have done Asmodeus a favor than not have done Asmodeus a favor, in terms of Asmodeus's inclinations towards you, I think probably the church'll give you money and a nice place to stay once I explain all of this. You should not count on that with nonLawful gods though they're still mostly, excluding Nethys, sane, and aware mortals can track our incentives ...probably the church'll want you back in Cheliax, not here at the Worldwound, where sometimes there are demons. I think you'll like it better, the weather's nicer and there are more - nice things of the sort I presume you're accustomed to, are there specifics I should mention?"</p>
+       </div>
+      </div>
+      <div class="post-footer">
+@@ -4859,7 +4855,7 @@
+       </div>
+       <div class="post-content">
+        <p>
+-        " - I think probably you should do it but you might be too Chaotic or something," or insufficiently informed about the things about Asmodeus that you're going to object to, "so I expect it to not work. I have never heard of anyone regretting become a cleric except if they eventually got ex-clericed, which I think can be traumatic. I think if you no longer want to serve the god that'd probably break clerichood, or if you change alignments to be too far from the god that does it, though I haven't heard of anyone breaking clerichood on purpose."
++        " - I think probably you should do it but you might be too Chaotic or something, so I expect it to not work. I have never heard of anyone regretting become a cleric except if they eventually got ex-clericed, which I think can be traumatic. I think if you no longer want to serve the god that'd probably break clerichood, or if you change alignments to be too far from the god that does it, though I haven't heard of anyone breaking clerichood on purpose."
+        </p>
+       </div>
+      </div>
+@@ -5199,7 +5195,7 @@
+         The afterlives are a godagreement. Each plane gets to do its own thing and gets those souls judged by Pharasma, who is True Neutral, to be theirs. Abaddon, Neutral Evil, defected on that, they eat their souls and they were eating some directly from the transit to judgment instead of waiting until they were theirs, so Pharasma changed the rules, and now people damned to Abaddon can choose Hell or the Abyss instead, and also most of the other afterlives volunteered some forces to defend the souls on their way to judgment.
+        </p>
+        <p>
+-        Asmodeus has agreements with most of the other gods, that protect Hell and the souls in it and advance His goals elsewhere. I know He's a party to lots of things protecting Golarion continuing to exist, and the sorting system for afterlives, and the compromise that cuts Abaddon out, and I think also agreements about intervention among the afterlives with each other, and with worlds other than Golarion. I know that long ago the gods broke into coalitions that disagreed on what we called "free will" - what I think you'd call preference incoherence, the thing about humans where occasionally we don't do what's in our interests - and Asmodeus was opposed to it, and in Hell teaches it out of people.
++        Asmodeus has agreements with most of the other gods, that protect Hell and the souls in it and advance His goals elsewhere. I know He's a party to lots of things protecting Golarion continuing to exist, and the sorting system for afterlives, and the compromise that cuts Abaddon out, and I think also agreements about intervention among the afterlives with each other, and with worlds other than Golarion. I know that long ago the gods broke into coalitions that disagreed on what we called-- what I think you'd call preference incoherence, the thing about humans where occasionally we don't do what's in our interests - and Asmodeus was opposed to it, and in Hell teaches it out of people.
+        </p>
+        <p>
+         Good and Evil are opposed but the Lawful Good and Lawful Evil afterlives don't fight each other directly, which is a godagreement of some kind. The Lawful Good gods are ...Erastil, who does agriculture, Iomedae, who is an ascended human and the god of the fight against Evil, Shizuru, who I think...used to do things on Golarion? but lost interest millennia ago - She's got a residual church in Tian Xia though - and some minor ones probably. I don't think the Lawful Good 'side' has unified priorities, Iomedae's all about defeating Evil but I don't think the other gods care about that very much. Iomedae's the one who's a signatory to the Worldwound treaty.
+@@ -5681,15 +5677,7 @@
+       </div>
+       <div class="post-content">
+        <p>
+-        "Good and Evil do collaborative projects sometimes and this sure sounds like one but I don't actually know of a Lawful Good god with prosperity in their domain? The reason why you'd hear in Cheliax is that Good people are so obsessed with unselfishness that their societies can't even sustain positive-sum things like wealth that run on selfishness and I think the way a paladin would say it is that wealth invites greed and corruption and so on, and societies that are trying too hard at pursuing it lose the selflessness." She is at this point
+-        <em>
+-         dancing
+-        </em>
+-        along the line of saying things that are supportive of other churches, which is illegal, but letting him decide he can't work with Cheliax would be catastrophic
+-        <em>
+-         too.
+-        </em>
+-        Plausibly she should pretend the spell has run out but it has six minutes more and maybe he could tell. "...I don't know that much about Chaotic gods, they're barred in Cheliax because Asmodeus mostly can't form god agreements with them, I think.....just thinking of things I know about, and I don't know all that much about gods, you can have a very short time horizon or very high discounting so you don't care very much if your values will be different tomorrow because you don't care much about anything that happens tomorrow, and will trade off lots of it for things that happen today, you can probably have the equivalent of that in dimensions other than time, you can prefer that future instances of you share your values but otherwise have entirely different attributes, I think gods have lots of attributes that are not overdetermined by their values, you can - I don't really know. Some kinds of outsiders you can summon and ask this stuff but obviously you can't summon full-on chaos beasts and the things you can summon from the Maelstrom are generally not very easy to get answers out of, is my understanding."
++        "Good and Evil do collaborative projects sometimes and this sure sounds like one but I don't actually know of a Lawful Good god with prosperity in their domain? The reason why you'd hear in Cheliax is that Good people are so obsessed with unselfishness that their societies can't even sustain positive-sum things like wealth that run on selfishness and I think the way a paladin would say it is that wealth invites greed and corruption and so on, and societies that are trying too hard at pursuing it lose the selflessness.</p><p>...I don't know that much about Chaotic gods, they're barred in Cheliax because Asmodeus mostly can't form god agreements with them, I think.....just thinking of things I know about, and I don't know all that much about gods, you can have a very short time horizon or very high discounting so you don't care very much if your values will be different tomorrow because you don't care much about anything that happens tomorrow, and will trade off lots of it for things that happen today, you can probably have the equivalent of that in dimensions other than time, you can prefer that future instances of you share your values but otherwise have entirely different attributes, I think gods have lots of attributes that are not overdetermined by their values, you can - I don't really know. Some kinds of outsiders you can summon and ask this stuff but obviously you can't summon full-on chaos beasts and the things you can summon from the Maelstrom are generally not very easy to get answers out of, is my understanding."
+        </p>
+       </div>
+      </div>
